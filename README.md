@@ -1,4 +1,4 @@
-# Ip-to-Hostname
+# Convert IPs to Hostnames
 Shell script to convert IPs to Hostnames
 Note: if hostname is not known, it will simply print the IP address.
 Usage:
